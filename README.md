@@ -2,7 +2,9 @@
 
 > A zero-dependency Python MCP server that gives Claude the ability to manage files through plain English.
 
-Built as part of the **[Codédex Monthly Challenge](https://www.codedex.io/)** — *"Build Your Own MCP Server with Python"*.
+Built for the **[Codédex Monthly Challenge](https://www.codedex.io/)** — *"Build Your Own MCP Server with Python"*.
+
+🔗 **Repo:** https://github.com/himanshu748/mcp-file-manager
 
 ## What it does
 

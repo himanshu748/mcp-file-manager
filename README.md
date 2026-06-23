@@ -30,7 +30,7 @@ Connect this server to Claude Desktop and talk to your files naturally:
 **No pip install needed** — standard library only.
 
 ```bash
-git clone https://github.com/your-username/mcp-file-manager
+git clone https://github.com/himanshu748/mcp-file-manager
 cd mcp-file-manager
 python3 test_server.py   # verify it works
 ```
@@ -63,7 +63,7 @@ mcp-file-manager/
 
 ## Tutorial
 
-Read the full step-by-step tutorial on [Codédex](https://www.codedex.io/) ← *update link after publish*
+Created for the Codédex Monthly Challenge. See [Codédex](https://www.codedex.io/) for the challenge prompt and community submissions.
 
 ## License
 
